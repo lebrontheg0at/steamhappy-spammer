@@ -1,0 +1,15 @@
+{
+  "name": "steamhappy-spammer",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "starlight watch",
+    "build": "starlight pack",
+    "prepare": "starlight lsp"
+  },
+  "devDependencies": {
+    "@types/react": "19.1.1",
+    "@types/react-dom": "19.1.1",
+    "@steambrew/starlight": "^1.1.3"
+  }
+}
