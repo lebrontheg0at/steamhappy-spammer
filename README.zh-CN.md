@@ -2,7 +2,7 @@
 
 **简体中文** | [English](README.md)
 
-> 一个 **Millennium 插件**：在你打开的 Steam 好友聊天窗口右下角放一个悬浮面板，一键连续发送 `steamhappy` 表情 😄 —— 次数与间隔可调。
+> 一个 **Millennium 插件**：在你打开的 Steam 好友聊天窗口右下角放一个悬浮面板，一键连续发送 `steamhappy` 表情 <img src="assets/steamhappy.png" width="20" alt="steamhappy"> —— 次数与间隔可调。
 
 > [!WARNING]
 > **只对单个聊天连刷，不是群发。** 不遍历好友列表、不会自动发给很多人。

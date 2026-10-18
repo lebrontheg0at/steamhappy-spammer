@@ -2,7 +2,7 @@
 
 [简体中文](README.zh-CN.md) | **English**
 
-> A **Millennium plugin** that puts a floating panel in the bottom-right of your open Steam friend chat, so one click spams the `steamhappy` emoji 😄 — with configurable count and interval.
+> A **Millennium plugin** that puts a floating panel in the bottom-right of your open Steam friend chat, so one click spams the `steamhappy` emoji <img src="assets/steamhappy.png" width="20" alt="steamhappy"> — with configurable count and interval.
 
 > [!WARNING]
 > **It repeats into a single chat — it is NOT a mass messenger.** It never iterates your friends list and never sends to many people automatically.
