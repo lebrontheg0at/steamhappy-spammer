@@ -1,4 +1,4 @@
-# 😄 SteamHappy Spammer
+# <img src="assets/steamhappy.png" width="34" alt="steamhappy"> SteamHappy Spammer
 
 [简体中文](README.zh-CN.md) | **English**
 
@@ -48,7 +48,7 @@
    - **间隔ms / Interval**: delay between messages (default 800)
    - **内容 / Text**: defaults to `:steamhappy:` (emoticon; for a sticker use `/sticker <name>`)
    - **好友id / Friend id**: leave blank = the open chat; set steamid64 = always send to that friend
-4. Click 连发 (fire) 😄
+4. Click 连发 (fire) <img src="assets/steamhappy.png" width="18" alt="steamhappy">
 
 ---
 
@@ -118,3 +118,7 @@ npx starlight watch              # dev: rebuild on change
 
 - 🧩 **Millennium** patches the Steam client. It is **reversible** (ships its own uninstaller).
 - ⚠️ **Anti-abuse**: automated messaging may trigger Steam restrictions. Keep it small-scale and low-frequency.
+
+---
+
+<sub>The `steamhappy` emoticon is © Valve Corporation, fetched from Steam's public CDN and used here only as a small decorative asset. This project is not affiliated with or endorsed by Valve.</sub>

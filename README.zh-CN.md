@@ -1,4 +1,4 @@
-# 😄 SteamHappy Spammer
+# <img src="assets/steamhappy.png" width="34" alt="steamhappy"> SteamHappy Spammer
 
 **简体中文** | [English](README.md)
 
@@ -48,7 +48,7 @@
    - **间隔ms**：每条间隔（默认 800）
    - **内容**：默认 `:steamhappy:`（表情；贴纸写 `/sticker <名字>`）
    - **好友id**：留空 = 当前打开的聊天；填 steamid64 = 固定发给该好友
-4. 点「连发」😄
+4. 点「连发」<img src="assets/steamhappy.png" width="18" alt="steamhappy">
 
 ---
 
@@ -118,3 +118,7 @@ npx starlight watch              # 开发模式：改动自动重编译
 
 - 🧩 **Millennium** 会给 Steam 客户端打补丁，**可逆**（自带卸载器）。
 - ⚠️ **风控**：自动化发消息可能触发 Steam 限制，请小范围、低频率使用。
+
+---
+
+<sub>`steamhappy` 表情版权归 Valve Corporation 所有，取自 Steam 公开 CDN，此处仅作为小尺寸装饰图使用。本项目与 Valve 无关联、也未获其背书。</sub>
