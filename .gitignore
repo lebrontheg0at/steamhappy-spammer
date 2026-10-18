@@ -1,0 +1,6 @@
+# 依赖与构建产物
+node_modules/
+.millennium/
+
+# 打包产物（作为 release 附件提供，不进仓库）
+*.zip

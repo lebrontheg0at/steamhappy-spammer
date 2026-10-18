@@ -1,0 +1,3 @@
+# Windows 批处理必须用 CRLF，否则 cmd 会把行切碎、无法运行
+*.bat text eol=crlf
+*.cmd text eol=crlf
